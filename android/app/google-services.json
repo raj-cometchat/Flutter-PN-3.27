@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "159617082399",
+    "project_id": "flutternotificationsampl-666db",
+    "storage_bucket": "flutternotificationsampl-666db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159617082399:android:b8b5157094b439fd6b212a",
+        "android_client_info": {
+          "package_name": "com.cometchat.flutter_pn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtILkEuus2-yo06Fo9NgupRKaKIl_SqgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159617082399:android:1f495e4fb434c33e6b212a",
+        "android_client_info": {
+          "package_name": "com.example.untitled27"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtILkEuus2-yo06Fo9NgupRKaKIl_SqgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
